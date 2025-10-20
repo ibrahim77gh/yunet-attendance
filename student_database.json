@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "101",
+      "name": "Ahmed Ali",
+      "classroom": "Grade 1-A",
+      "embedding_file": "student_101_embedding.npy"
+    },
+    {
+      "id": "102",
+      "name": "Sarah Johnson",
+      "classroom": "Grade 1-A",
+      "embedding_file": "student_102_embedding.npy"
+    },
+    {
+      "id": "103",
+      "name": "Mohammed Hassan",
+      "classroom": "Grade 1-B",
+      "embedding_file": "student_103_embedding.npy"
+    }
+  ]
+}
